@@ -1,0 +1,4 @@
+1.here we have to install node version of 20.x
+2.in python3 app.py file i changed it app.run then host and port name and its runs
+3.also addded the cors in python file
+4.delete node_moduls and reinstall using npm install
